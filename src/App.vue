@@ -126,7 +126,7 @@ watch(isMenuOpen, (newValue) => {
     <h1 class="overskrift">RENTHERO</h1>
     <h2 style="font-size: 1.2rem; position: absolute; bottom: 4.7rem">EXPERTS IN RENT CONTROL</h2>
     <button class="knap" style="width: 22.5rem; height: 2.5rem; position: absolute; bottom: 2.4rem; background-color: #F7DA09; color: black; border: none; border-radius: 5px;  ">FIND OUT IF YOU'RE OVERPAYING</button>
-    <img src="/public/pics/black friday.png" alt="#" class="pic">
+    <img src="/pics/black friday.png" alt="#" class="pic">
   </div>
 </template>
 
