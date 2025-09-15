@@ -118,7 +118,7 @@ watch(isMenuOpen, (newValue) => {
 
     <div class="vidbox">
       <video autoplay muted loop playsinline class="bg-video">
-        <source src="/video/cph.mp4" type="video/mp4" />
+        <source src="/video/cph.mp4" type="video/mp4" /> <!-- Keep this as is -->
         Din browser understøtter ikke video-tagget.
       </video>
     </div>
