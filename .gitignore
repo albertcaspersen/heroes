@@ -32,5 +32,4 @@ node_modules
 dist
 .env
 .DS_Store
-public/video/cph.mp4
-public/video/cph.mp4
+
