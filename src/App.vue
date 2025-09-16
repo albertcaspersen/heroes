@@ -191,7 +191,7 @@ html, body, #app {
   align-self: start;
   z-index: 2;
   font-size: 1.2rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .cta-knap {
@@ -206,7 +206,7 @@ html, body, #app {
   color: black;
   border: none;
   border-radius: 5px;
-  margin-top: 1rem;
+  margin-top: 0rem;
 }
 
 .pic {
